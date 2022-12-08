@@ -1,5 +1,5 @@
 astroid==1.5.3
-certifi==2017.7.27.1
+certifi==2022.12.7
 cfscrape==1.9.0
 chardet==3.0.4
 coreapi==2.3.1
